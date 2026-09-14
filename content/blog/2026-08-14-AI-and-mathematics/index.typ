@@ -1,7 +1,7 @@
-#import "../config.typ": template, tufted
+#import "../index.typ": template, tufted
 #show: template
 
-= AI and Mathematics
+#title([AI and Mathematics])
 
 What is the role of mathematics in the age of AI? 
 
